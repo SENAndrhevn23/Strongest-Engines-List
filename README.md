@@ -4,7 +4,7 @@ A community-style ranking of **Friday Night Funkin' (FNF) engines**, split into 
 
 ## Haxe / HaxeFlixel Engines
 
-1. **S2x** — Might be stronger, but who knows.
+1. **S2X** — Might be stronger, but who knows.
 2. **H-Slice+JS** — I might be wrong about this one, so feel free to correct me.
 3. **H-Slice** — The original Redux engine, made using P-Slice.
 4. **HRK Engine** — HRK's original engine based on Psych Engine 0.7.3.
