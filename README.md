@@ -13,7 +13,7 @@ A community-style ranking of **Friday Night Funkin' (FNF) engines**, split into 
 7. **Denpa** — Based on Psych Engine 0.6.3.
 8. **ADR Engine** — Based on Psych Engine 1.0.4; described as a vibe-coded engine.
 
-## Non-HaxeFlixel Engines
+## Non-HaxeFlixel / Haxeflixel Engines
 
 1. **iutk Engine** — A custom-made FNF engine written in Haxe.
 2. **SDL3 Showcase**
